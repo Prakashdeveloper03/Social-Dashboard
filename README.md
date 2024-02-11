@@ -20,7 +20,7 @@ To install this project, follow these steps:
 Clone the repository using `git`
 
 ```
-git clone https://github.com/Prakashdeveloper03/Netflix-Clone.git
+git clone https://github.com/Prakashdeveloper03/Social-Dashboard.git
 ```
 
 Navigate to the root directory of the project
@@ -42,8 +42,11 @@ pnpm run dev
 ```
 
 ## Screenshot
+
 ### Light Mode
+
 ![light](markdown/light.jpeg)
 
 ### Dark Mode
+
 ![output](markdown/dark.jpeg)
